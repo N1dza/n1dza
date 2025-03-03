@@ -1,2 +1,0 @@
-Ovo je fajl1.txt
-Nova linija u file1.txt
